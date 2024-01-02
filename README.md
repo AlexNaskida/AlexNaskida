@@ -3,7 +3,7 @@
 <h4> Here on GitHub, you can find some of the projects I have worked on and contributions I have made to the open-source community. </h4>
 
 
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cyber Security and Ethical Hacking in depth
 - ⚡ Fun fact: 7k people push their very first repository to GitHub.com everyday!
 -->
 
