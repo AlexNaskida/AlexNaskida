@@ -1,7 +1,7 @@
 <h1 align="center">$ whoami</h1>
 <h2 align="center">Alex@Naskida:~$</h2>
 
-<h3 align="center">Security Engineer and Web3 enthusiast</h3>
+<h3 align="center">Security Engineer and Web3 Builder</h3>
 
 ---
 
